@@ -1,2 +1,8 @@
 Hi to Mirafra employees
  from Hyderabad,Telangana,INDIA.
+
+#include<stdio.h>
+main()
+{
+printf("hello world\n");
+}
